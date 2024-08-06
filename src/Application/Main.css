@@ -1,0 +1,10 @@
+#root .media-info-meta {
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+#root:hover .media-info-meta {
+  opacity: 1;
+  transition: opacity 0s;
+}
+
+/*# sourceMappingURL=Main.css.map */
